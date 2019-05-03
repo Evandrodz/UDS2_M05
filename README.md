@@ -6,7 +6,7 @@
 
 #### Entrega: 
 - Report - Identificar fraude no Email da Enron.html
-- Analisando o resultado de testes AB.ipynb
+- poi_id.ipynb
 
 #### Avaliação do cliente:
  - Udacity Reviews.pdf 
